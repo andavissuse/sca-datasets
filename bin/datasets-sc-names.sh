@@ -7,7 +7,7 @@
 #	1) writes the supportconfig md5sum and name to an sc-names.dat
 #	   file in the datasets area
 #
-# Inputs: None (uses sca-databuild.conf file for configuration)
+# Inputs: None (uses sca-datasets.conf file for configuration)
 #
 # Outputs/Results: Updated sc-names.dat file in the datasets directory
 #
@@ -35,22 +35,22 @@ while getopts 'hd' OPTION; do
 done
 
 # config file
-confFile="/usr/etc/sca-databuild.conf"
+confFile="/usr/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="/etc/sca-databuild.conf"
+confFile="/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="../sca-databuild.conf"
+confFile="../sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
 if [ -z "$confFile" ]; then
-        echo "*** ERROR: $0: No sca-databuild.conf file, exiting..." >&2
+        echo "*** ERROR: $0: No sca-datasets.conf file, exiting..." >&2
         exit 1
 fi
-databuildTmpPath="$SCA_DATASETS_TMP_PATH"
+datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 datasetsPath="$SCA_DATASETS_RESULTS_PATH"
-[ $DEBUG ] && echo "*** DEBUG: $0: databuildTmpPath: $databuildTmpPath, datasetsPath: $datasetsPath" >&2
+[ $DEBUG ] && echo "*** DEBUG: $0: datasetsTmpPath: $datasetsTmpPath, datasetsPath: $datasetsPath" >&2
 
 # process new supportconfigs
-scsFile="$databuildTmpPath/new-scs.txt"
+scsFile="$datasetsTmpPath/new-scs.txt"
 if [ ! -f "$datasetsPath"/sc-names.dat ]; then
 	echo "000_md5sum scName" > "$datasetsPath"/sc-names.dat
 fi

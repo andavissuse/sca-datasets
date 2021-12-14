@@ -19,7 +19,7 @@ Built datasets.  Although the datasets can be built from the scripts, the built 
 
 ## Building/updating datasets
 Prerequisites:
-* rawdata (supportconfigs) in the locations specified by RAWDATA variables in sca-databuild.conf
+* rawdata (supportconfigs) in the locations specified by RAWDATA variables in sca-datasets.conf
 
 Types of datasets:
 * text files that map supportconfig md5sums to supportconfig features

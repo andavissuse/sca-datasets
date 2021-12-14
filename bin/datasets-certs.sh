@@ -9,7 +9,7 @@
 #	2) writes the supportconfig md5sum and bulletin number to the
 #	   certs.dat file in the datasets area
 #
-# Inputs: None (uses sca-databuild.conf file for configuration)
+# Inputs: None (uses sca-datasets.conf file for configuration)
 #
 # Outputs/Results:  Updated certs.dat file in the datasets directory
 #
@@ -37,25 +37,25 @@ while getopts 'hd' OPTION; do
 done
 
 # config file
-confFile="/usr/etc/sca-databuild.conf"
+confFile="/usr/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="/etc/sca-databuild.conf"
+confFile="/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="../sca-databuild.conf"
+confFile="../sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
 if [ -z "$confFile" ]; then
-        echo "*** ERROR: $0: No sca-databuild.conf file, exiting..." >&2
+        echo "*** ERROR: $0: No sca-datasets.conf file, exiting..." >&2
         exit 1
 fi
-databuildTmpPath="$SCA_DATASETS_TMP_PATH"
+datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 certScsDir="$SCA_DATASETS_RAWDATA_CERT_SCS_DIR"
 certSubsPath="$SCA_DATASETS_RAWDATA_YES_SUBS_PATH"
 datasetsPath="$SCA_DATASETS_RESULTS_PATH"
-[ $DEBUG ] && echo "*** DEBUG: $0: databuildTmpPath: $databuildTmpPath, certScsDir: $certScsDir, certSubsPath: $certSubsPath, datasetsPath: $datasetsPath" >&2
+[ $DEBUG ] && echo "*** DEBUG: $0: datasetsTmpPath: $datasetsTmpPath, certScsDir: $certScsDir, certSubsPath: $certSubsPath, datasetsPath: $datasetsPath" >&2
 
 # create list of new supportconfigs that could be related to certs
-cat "$databuildTmpPath/new-scs.txt" | grep "$certScsDir" >> $databuildTmpPath/new-cert-scs.txt
-scsFile="$databuildTmpPath/new-cert-scs.txt"
+cat "$datasetsTmpPath/new-scs.txt" | grep "$certScsDir" >> $datasetsTmpPath/new-cert-scs.txt
+scsFile="$datasetsTmpPath/new-cert-scs.txt"
 if [ ! -s "$scsFile" ]; then
 	[ $DEBUG ] && echo "*** DEBUG: $0: No new supportconfigs to process, exiting..."
         exit 0

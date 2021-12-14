@@ -8,7 +8,7 @@
 #       2) writes the supportconfig md5sum and SR ID to
 #          an srs.dat file in the datasets area
 #
-# Inputs: None (uses sca-databuild.conf file for configuration)
+# Inputs: None (uses sca-datasets.conf file for configuration)
 #
 # Outputs/Results:  Updated srs.dat file in the datasets directory
 #
@@ -36,24 +36,24 @@ while getopts 'hd' OPTION; do
 done
 
 # config file
-confFile="/usr/etc/sca-databuild.conf"
+confFile="/usr/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="/etc/sca-databuild.conf"
+confFile="/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="../sca-databuild.conf"
+confFile="../sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
 if [ -z "$confFile" ]; then
-        echo "*** ERROR: $0: No sca-databuild.conf file, exiting..." >&2
+        echo "*** ERROR: $0: No sca-datasets.conf file, exiting..." >&2
         exit 1
 fi
-databuildTmpPath="$SCA_DATASETS_TMP_PATH"
+datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 l3ScsDir="$SCA_DATASETS_RAWDATA_L3_SCS_DIR"
 datasetsPath="$SCA_DATASETS_RESULTS_PATH"
-[ $DEBUG ] && echo "*** DEBUG: $0: databuildTmpPath: $databuildTmpPath, l3ScsDir: $l3ScsDir, datasetsPath: $datasetsPath" >&2
+[ $DEBUG ] && echo "*** DEBUG: $0: datasetsTmpPath: $datasetsTmpPath, l3ScsDir: $l3ScsDir, datasetsPath: $datasetsPath" >&2
 
 # create list of new supportconfigs that could be related to srs
-scsFile="$databuildTmpPath/new-sr-scs.txt"
-cat "$databuildTmpPath/new-scs.txt" | grep "$l3ScsDir" > $scsFile
+scsFile="$datasetsTmpPath/new-sr-scs.txt"
+cat "$datasetsTmpPath/new-scs.txt" | grep "$l3ScsDir" > $scsFile
 if [ ! -s "$scsFile" ]; then
         [ $DEBUG ] && echo "*** DEBUG: $0: No new supportconfigs to process, exiting..."
         exit 0

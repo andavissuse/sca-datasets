@@ -7,7 +7,7 @@
 #	1) extracts all feature data from the supportconfig
 #	2) for each feature, calls dataset_feature.py to update the feature dataset
 #
-# Inputs: None (uses sca-databuild.conf file for configuration)
+# Inputs: None (uses sca-datasets.conf file for configuration)
 #
 # Result: Updated feature datasets in the datasets directory
 #
@@ -36,25 +36,25 @@ while getopts 'hd' OPTION; do
 done
 
 # config file
-confFile="/usr/etc/sca-databuild.conf"
+confFile="/usr/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="/etc/sca-databuild.conf"
+confFile="/etc/sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
-confFile="../sca-databuild.conf"
+confFile="../sca-datasets.conf"
 [ -r "$confFile" ] && source ${confFile}
 if [ -z "$confFile" ]; then
-	echo "*** ERROR: $0: No sca-databuild.conf file, exiting..." >&2
+	echo "*** ERROR: $0: No sca-datasets.conf file, exiting..." >&2
 	exit 1
 fi
 scaBinPath="$SCA_BIN_PATH"
-databuildBinPath="$SCA_DATASETS_BIN_PATH"
-databuildTmpPath="$SCA_DATASETS_TMP_PATH"
+datasetsBinPath="$SCA_DATASETS_BIN_PATH"
+datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 datasetsPath="$SCA_DATASETS_RESULTS_PATH"
 dataTypes="$SCA_DATASETS_ALL_DATATYPES"
-[ $DEBUG ] && echo "*** DEBUG: $0: scaBinPath: $scaBinPath, databuildBinPath: $databuildBinPath, databuildTmpPath: $databuildTmpPath, datasetsPath: $datasetsPath, dataTypes: $dataTypes" >&2
+[ $DEBUG ] && echo "*** DEBUG: $0: scaBinPath: $scaBinPath, datasetsBinPath: $datasetsBinPath, datasetsTmpPath: $datasetsTmpPath, datasetsPath: $datasetsPath, dataTypes: $dataTypes" >&2
 
 # process new supportconfigs from all sources
-scsFile="$databuildTmpPath/new-scs.txt"
+scsFile="$datasetsTmpPath/new-scs.txt"
 scNum=0
 while IFS= read -r sc; do
 	[ $DEBUG ] && echo "*** DEBUG: $0: sc: $sc" >&2
@@ -71,7 +71,7 @@ while IFS= read -r sc; do
 		fi
 		# process the supportconfig for this datatype
 		if [ -z "$tmpDir" ]; then
-			tmpDir=`mktemp -d --tmpdir="$databuildTmpPath"`
+			tmpDir=`mktemp -d --tmpdir="$datasetsTmpPath"`
 			tar -xf "$sc" -C "$tmpDir" --wildcards --no-anchored 'basic*' 'hardware*' 'messages*' 'modules*' 'rpm*' 'summary*' 'supportconfig*' 2>/dev/null
 		fi
 		basicEnvFile=`find $tmpDir -name basic-environment.txt`
@@ -90,7 +90,7 @@ while IFS= read -r sc; do
 		[ $DEBUG ] && echo "*** DEBUG: $0: featuresFile $featuresFile created..." >&2
 		if [ -s "$featuresFile" ]; then
 			[ $DEBUG ] && echo "*** DEBUG: $0: Calling dataset.py $dataset $scMd5 $featuresFile" >&2
-			result=`python3 $databuildBinPath/dataset_feature.py $dataset $scMd5 $featuresFile`
+			result=`python3 $datasetsBinPath/dataset_feature.py $dataset $scMd5 $featuresFile`
 		fi
 	done
 	rm -rf $tmpDir
