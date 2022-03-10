@@ -1,0 +1,1898 @@
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: datasetsTmpPath: /work/sca-datasets/tmp, certScsDir: cert-supportconfigs, certSubsPath: /work/sca-datasets/rawdata/cert-subs, datasetsPath: /work/sca-datasets/datasets
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76282/nts_linux_211116_1556.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 1, scMd5: 751efb7d247aa88caea16970396be44c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76282
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607022.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151118
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76282/nts_linux_211117_1110.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 2, scMd5: ad94e89392a479dcfa0dc532006bbf02
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76282
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607022.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151118
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76282/scc_install_211116_1556.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 3, scMd5: ae80c113285d902d98cbaad50fcbb6fa
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76282
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607022.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151118
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76282/scc_localhost_211117_0930.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 4, scMd5: 4fa04c63899641bde88841a2f3a8b7cb
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76282
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607022.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151118
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76282/scc_localhost_211117_1405.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 5, scMd5: 97152f3bfad4c6fe2c27114e2235c677
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76282
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607022.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151118
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76282/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 6, scMd5: 6cafd8986503f85d279c1025d160c029
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76282
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607022.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151118
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76283/scc_SUT_211005_1329.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 7, scMd5: cf71a21537efaeefbfe5163beebc3345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76283
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607039.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76283/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 8, scMd5: 1ad4dcae5d8dad5a288a7adf17629ee8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76283
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607039.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76284/scc_sut15-sp3_211109_1525.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 9, scMd5: ff5bc994233aa3b82bfebd887bb36ed8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76284
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607040.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76284/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 10, scMd5: 628faf789241864f8d58eb3a08a86ea6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76284
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607040.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76285/scc_sut15-sp3_211109_1525.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 11, scMd5: ff5bc994233aa3b82bfebd887bb36ed8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76285
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607041.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76285/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 12, scMd5: 628faf789241864f8d58eb3a08a86ea6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76285
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607041.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76286/scc_localhost_200611_0037.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 13, scMd5: 56413d4a3a48501098f89b7c7bde0f0b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76286
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607042.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151119
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76286/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 14, scMd5: 41ba2058dbf967ab390485c86561b77b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76286
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607042.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151119
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76287/scc_SUT_211117_1824.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 15, scMd5: 09894c7a477493a9372e867835db7294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76287
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607043.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151166
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76287/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 16, scMd5: 9f91869d007b3728db0d9877a57837a1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76287
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607043.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151166
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76288/scc_localhost_211115_1826.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 17, scMd5: 4dbb551d068be045616b06eff41be073
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76288
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607056.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151129
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76288/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 18, scMd5: 31f467c5afd1d69c97a8003ed92ab11a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76288
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607056.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151129
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/nts_linux_211116_1511.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 19, scMd5: 5043f7f53ecc9ba7c4486834e98da5ab
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/nts_linux_211116_1513.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 20, scMd5: 2aac536dabe05baa23d2d6a8bc7fc338
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/nts_linux_211117_1138.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 21, scMd5: 89d2b249f955800728d56174c69e4bdd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/nts_linux_211118_1030.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 22, scMd5: 2d2fc644c8da7c72fc3f989f87333300
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/nts_linux_211118_1207.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 23, scMd5: c49d053682b98fb820d91b1248f26076
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/nts_linux_211118_1415.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 24, scMd5: ca21bcc2e69dbc15172d1a4767994f40
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_install_211116_1511.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 25, scMd5: 9784973a06c33189f4955acbe433242c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_install_211116_1513.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 26, scMd5: 9742902fecd49e9a6650cecf1d32145b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_install_211117_1138.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 27, scMd5: 0fc684961962fd741a5a26672bb8e91c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_install_211118_1415.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 28, scMd5: 2b274d3648107cda59c2c7e1294c1207
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_localhost_211118_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 29, scMd5: eb427250bd49f682aa2b6edf7a441969
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_localhost_211118_1115.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 30, scMd5: e73331bb92e99d0385abf9146e60001c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_localhost_211119_0927.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 31, scMd5: 02265f3da83a5fec30fc0107649f846b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/scc_localhost_211119_0949.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 32, scMd5: e2bac29397431b33e5c00a28e620c31b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76289/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 33, scMd5: e6752b4167217384443f659f8e0d5409
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76289
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607057.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151120
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76290/nts_linux_200611_2325.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 34, scMd5: fefec9c7c6d4aab49545884ee9226a3a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76290
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607058.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151121
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76290/nts_linux_200612_1712.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 35, scMd5: 6933a81af59d7b4fbfb35d5a0c95e2c0
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76290
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607058.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151121
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76290/scc_install_200611_2325.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 36, scMd5: adedf03bc5fe965be6b8abc5eb7c567d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76290
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607058.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151121
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76290/scc_localhost_200612_1608.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 37, scMd5: 0f30adaf5eb48121ce95837b193da45f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76290
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607058.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151121
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76290/scc_localhost_200612_2005.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 38, scMd5: a0ff7ecef7e41594552c5d2352313b52
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76290
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607058.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151121
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76290/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 39, scMd5: d4c826eb9706b79994b29c6ca8db8b6d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76290
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607058.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151121
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76291/nts_linux-alpj_211122_2113.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 40, scMd5: 5da110995377c415e49c9c923c745d91
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76291
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607059.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151163
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76291/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 41, scMd5: a588505a0a17eda50985bbd398855592
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76291
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607059.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151163
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76292/scc_localhost_211117_0313.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 42, scMd5: eb621bfe47fd728d7ba7fb48a70c7217
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76292
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607060.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151124
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76292/scc_localhost_211117_0317.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 43, scMd5: 2166c7585c3f637bed4d387145da9dac
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76292
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607060.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151124
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76292/scc_localhost_211117_0633.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 44, scMd5: 6eeea98deed4e38df0910ba2f3294ab1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76292
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607060.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151124
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76292/scc_localhost_211117_0901.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 45, scMd5: 2338d174506b1086a67a92334bfb022b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76292
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607060.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151124
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76292/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 46, scMd5: 4c4667f0675177bd2cd18c487eb0bdda
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76292
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607060.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151124
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76293/scc_localhost_211118_0053.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 47, scMd5: 56603ba0a370f66a074bcc3c8cb5ecc4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76293
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607061.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151125
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76293/scc_localhost_211118_2321.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 48, scMd5: 6df956c14e1f80d79b0e698cb781ff56
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76293
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607061.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151125
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76293/scc_localhost_211119_0033.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 49, scMd5: aa804145848e219fcef059d02cd8505b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76293
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607061.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151125
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76293/scc_localhost_211119_0644.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 50, scMd5: ff952a812731bc826f00f43a34e0458d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76293
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607061.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151125
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76293/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 51, scMd5: ebec7f8b1c6bfc139602b4c428b4f51d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76293
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607061.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151125
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76294/scc_localhost_211122_0223.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 52, scMd5: b6f816aec97a21014705ef2e2f629721
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607062.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151126
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76294/scc_localhost_211122_2317.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 53, scMd5: a8aa29ef1da570cff6583867dac64532
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607062.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151126
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76294/scc_localhost_211123_0048.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 54, scMd5: 214df31c6f1bddcb7d9b129c8e3e555f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607062.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151126
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76294/scc_localhost_211123_0321.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 55, scMd5: 14f91bc6305914171a1f0d9e255cfd25
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607062.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151126
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76294/scc_localhost_211123_0449.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 56, scMd5: b47e64818f468fdaf4b573b4ff924fe8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607062.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151126
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76294/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 57, scMd5: 1bb6dab1bf9c33c1796d37b95474e68f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76294
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607062.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151126
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76295/scc_SUT_211124_0848.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 58, scMd5: 7cfe6823c8658a35429bc433299412bc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76295
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607063.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76295/scc_SUT_211124_1307.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 59, scMd5: ab612d118172f0a6df40a566c0ef4280
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76295
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607063.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76295/scc_localhost_211123_1558.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 60, scMd5: 85a8c55f44e8af71ce5cf9a7ab2f983a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76295
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607063.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76295/scc_localhost_211124_1114.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 61, scMd5: 4b47ab232b134e4ad62669d406443865
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76295
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607063.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76295/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 62, scMd5: 95910b7955b2feae5d7cee39a13b92fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76295
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607063.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76296/nts_linux-j1qx_211123_0935.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 63, scMd5: 09cba4c8a363b8771c418771c57dca34
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76296
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607064.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151164
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76296/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 64, scMd5: 1821d5d838ac3a61ac8593431d14b8c3
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76296
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607064.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151164
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76297/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 65, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76297
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607065.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76297/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 66, scMd5: 618a9933b8a011b63cd0c7cd9ff9cbf7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76297
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607065.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76298/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 67, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76298
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607066.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76298/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 68, scMd5: 7dd6d013ba8a3cda3122174b5a264623
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76298
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607066.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76299/nts_SUT_211123_1621.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 69, scMd5: 7ba192fe151d75524a3c66ab0841e9d1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76299
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607067.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151136
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76299/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 70, scMd5: 110fab11754db89b19f1ee2b6ade5772
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76299
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607067.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151136
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76300/nts_linux-0yhc_211116_1938.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 71, scMd5: 6706a847eabbe38cdcf6487da141fe81
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76300
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607068.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76300/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 72, scMd5: 7b12ebf80de00513fba080320d1ebc08
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76300
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607068.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76301/nts_linux-0yhc_211122_1120.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 73, scMd5: 2af6d426529dfd4c68fb1c18c1377739
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76301
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607069.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76301/nts_linux-0yhc_211122_1432.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 74, scMd5: ff915a754d77baed65a6f0bbc1a0606b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76301
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607069.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76301/nts_linux_211119_1145.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 75, scMd5: aa766222e6cd0c37e280dcd1220f1b0f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76301
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607069.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76301/nts_linux_211122_1212.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 76, scMd5: cd4953258bfbf2e85e1c3ce107e18560
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76301
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607069.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76301/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 77, scMd5: 495e30fa353e96bdeecece0666954bf2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76301
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607069.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76302/nts_linux-0yhc_211122_1120.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 78, scMd5: 2af6d426529dfd4c68fb1c18c1377739
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76302
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607070.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76302/nts_linux-0yhc_211122_1432.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 79, scMd5: ff915a754d77baed65a6f0bbc1a0606b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76302
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607070.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76302/nts_linux_211119_1145.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 80, scMd5: aa766222e6cd0c37e280dcd1220f1b0f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76302
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607070.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76302/nts_linux_211122_1212.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 81, scMd5: cd4953258bfbf2e85e1c3ce107e18560
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76302
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607070.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76302/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 82, scMd5: 495e30fa353e96bdeecece0666954bf2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76302
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607070.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76303/nts_linux-i0y9_211126_1959.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 83, scMd5: c848192d3d50e3783b9875d0df57d987
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76303
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607071.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151169
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76303/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 84, scMd5: 588326e180f0f72ab69f14a5b5d14d84
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76303
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607071.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151169
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/nts_linux_211125_0501.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 85, scMd5: 25edc3887a0d87c632d731a69f687a9c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/nts_linux_211126_0338.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 86, scMd5: d05e8f8fd16110befc7343889c040d76
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/nts_linux_211129_0426.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 87, scMd5: 3e7604a0cdcdc636b8e85dbf789ec083
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/scc_install_211125_0501.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 88, scMd5: 7fc7414e6255148fcc8c1346ee726d14
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/scc_install_211126_0337.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 89, scMd5: dfa51399ca931e667cd3505847815b4a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/scc_localhost_211126_0221.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 90, scMd5: 78568840a9cb9115aec189910cc45529
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/scc_localhost_211129_0306.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 91, scMd5: a6ac8ec14e7c7a30442950cca5ce6e31
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/scc_localhost_211129_0647.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 92, scMd5: 229f3e351fe487a1d3117f2fa0346a3c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76304/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 93, scMd5: 9c367155c8ad653c6edfedd1d2e7bd65
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607072.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76305/scc_sut_210906_1617.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 94, scMd5: 71104efa883a5b7a4dd9b989bf07a3bd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76305
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607073.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76305/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 95, scMd5: 102f955676dc35abc10a6109c80732c3
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76305
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607073.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76306/nts_SUT_211125_1152.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 96, scMd5: 889043b62bfa7db0ba544c08f89754ba
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76306
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607074.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151130
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76306/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 97, scMd5: 16c29011a998d8ab22737fa66ebd3d77
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76306
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607074.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151130
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76307/scc_SUT_211126_1150.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 98, scMd5: 1209312e8b5beccfb913a058f06207c3
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76307
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607075.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151131
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76307/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 99, scMd5: 95e55ef627ef5785759695e6d9a7e8d4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76307
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607075.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151131
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76308/scc_SUT_211124_2025.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 100, scMd5: 25e17864cfc912ea102edf418860f265
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76308
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607076.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151132
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76308/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 101, scMd5: 24beaf6fc9d590f5214c8db7f6dfc41d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76308
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607076.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151132
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/nts_linux_211125_0501.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 102, scMd5: 25edc3887a0d87c632d731a69f687a9c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/nts_linux_211126_0338.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 103, scMd5: d05e8f8fd16110befc7343889c040d76
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/nts_linux_211129_0426.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 104, scMd5: 3e7604a0cdcdc636b8e85dbf789ec083
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/scc_install_211125_0501.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 105, scMd5: 7fc7414e6255148fcc8c1346ee726d14
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/scc_install_211126_0337.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 106, scMd5: dfa51399ca931e667cd3505847815b4a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/scc_localhost_211126_0221.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 107, scMd5: 78568840a9cb9115aec189910cc45529
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/scc_localhost_211129_0306.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 108, scMd5: a6ac8ec14e7c7a30442950cca5ce6e31
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/scc_localhost_211129_0647.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 109, scMd5: 229f3e351fe487a1d3117f2fa0346a3c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76309/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 110, scMd5: 9c367155c8ad653c6edfedd1d2e7bd65
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76309
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607077.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76310/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 111, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76310
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607078.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76310/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 112, scMd5: 7dd6d013ba8a3cda3122174b5a264623
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76310
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607078.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76311/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 113, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76311
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607079.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76311/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 114, scMd5: 4461a17fbb73ad7c98047d3163a71c10
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76311
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607079.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76312/scc_install_211125_0935.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 115, scMd5: 13e6615adfcc4ac74d68e8c8a6902920
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76312
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607080.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76312/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 116, scMd5: 9528c6943094e65a8e991953696862da
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76312
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607080.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76313/scc_install_211128_0701.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 117, scMd5: 964e5a0731e9cc885253d02e5f84753d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76313
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607081.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76313/scc_install_211129_0023.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 118, scMd5: 627b74bc078422df5f6ffb5e48df4e88
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76313
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607081.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76313/scc_install_211129_0132.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 119, scMd5: e6c330a15e4a37101156d7072756f5ac
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76313
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607081.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76313/scc_install_211129_0247.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 120, scMd5: 77176e4b48bd780387ae540a8eec7891
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76313
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607081.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76313/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 121, scMd5: cf183fa50550788220101574db211b8d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76313
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607081.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76314/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 122, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76314
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607082.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76314/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 123, scMd5: 595923ec2d0677ee2847afe9cf844fc7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76314
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607082.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76315/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 124, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76315
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607083.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76315/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 125, scMd5: 595923ec2d0677ee2847afe9cf844fc7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76315
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607083.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76316/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 126, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76316
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607084.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76316/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 127, scMd5: 595923ec2d0677ee2847afe9cf844fc7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76316
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607084.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76317/scc_sut20_211122_1506.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 128, scMd5: 5057b4230214ea591b5d5c124941a304
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76317
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607085.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76317/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 129, scMd5: 595923ec2d0677ee2847afe9cf844fc7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76317
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607085.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/nts_linux_211125_0501.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 130, scMd5: 25edc3887a0d87c632d731a69f687a9c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/nts_linux_211126_0338.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 131, scMd5: d05e8f8fd16110befc7343889c040d76
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/nts_linux_211129_0426.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 132, scMd5: 3e7604a0cdcdc636b8e85dbf789ec083
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/scc_install_211125_0501.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 133, scMd5: 7fc7414e6255148fcc8c1346ee726d14
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/scc_install_211126_0337.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 134, scMd5: dfa51399ca931e667cd3505847815b4a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/scc_localhost_211126_0221.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 135, scMd5: 78568840a9cb9115aec189910cc45529
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/scc_localhost_211129_0306.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 136, scMd5: a6ac8ec14e7c7a30442950cca5ce6e31
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/scc_localhost_211129_0647.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 137, scMd5: 229f3e351fe487a1d3117f2fa0346a3c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76318/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 138, scMd5: 9c367155c8ad653c6edfedd1d2e7bd65
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607086.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76319/scc_install_211201_1542.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 139, scMd5: 901aecd13f392f2083c13492fbafad6d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76319
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607087.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76319/scc_install_211202_0916.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 140, scMd5: 6e0aeda099e0f763a72c3100237c868b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76319
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607087.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76319/scc_install_211202_1406.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 141, scMd5: 292ca161e80e4566ba26364bc490eabc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76319
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607087.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76319/scc_install_211202_1453.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 142, scMd5: 8e12af08b2d17c56f07537fb829487da
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76319
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607087.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76319/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 143, scMd5: 72aad9843d2c4bb8382065dab0576f21
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76319
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607087.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76320/scc_SUT_211122_1941.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 144, scMd5: 513575272951b4a9c464fa9a05016d01
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76320
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607088.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76320/scc_SUT_211124_0849.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 145, scMd5: d38f088b7317469ac970d95e1e715d7c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76320
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607088.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76320/scc_SUT_211124_1106.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 146, scMd5: 28e465bfa59041ad6d3b2a7cc97987d4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76320
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607088.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76320/scc_install_211123_1347.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 147, scMd5: b3d044f6d350a4d821600298cdb0f4c5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76320
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607088.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76320/scc_install_211124_0957.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 148, scMd5: f60864d2f7bdd849c3c8a250800a15c6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76320
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607088.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76320/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 149, scMd5: 0c8c053849f5223596a391bd00a71701
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76320
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607088.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76321/scc_SUT_211005_1329.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 150, scMd5: cf71a21537efaeefbfe5163beebc3345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76321
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607089.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76321/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 151, scMd5: 63d5878c20321846a42d6f89a4e29054
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76321
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607089.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76322/scc_SUT_210923_1550.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 152, scMd5: 89c5a8df2516b19c5cab37740ed9a7fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76322
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607090.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76322/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 153, scMd5: daaa58d2a1d720c2f0bbf3c83b0422fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76322
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607090.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76323/nts_SUT_211006_1624.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 154, scMd5: 8e1726b2dab8d45be188c4022e976bd6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76323
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607091.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76323/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 155, scMd5: bf1a44eb8078ef82d66a80a2b0933024
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76323
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607091.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76324/nts_SUT_211006_1624.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 156, scMd5: 8e1726b2dab8d45be188c4022e976bd6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76324
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607092.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76324/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 157, scMd5: deb84f9b29861855b8ef572751ac6da3
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76324
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607092.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76325/nts_SUT_211006_1624.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 158, scMd5: 8e1726b2dab8d45be188c4022e976bd6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76325
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607093.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76325/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 159, scMd5: bf1a44eb8078ef82d66a80a2b0933024
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76325
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607093.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76326/nts_SUT_211006_1624.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 160, scMd5: 8e1726b2dab8d45be188c4022e976bd6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76326
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607094.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76326/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 161, scMd5: bf1a44eb8078ef82d66a80a2b0933024
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76326
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607094.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76327/scc_SUT_211005_1329.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 162, scMd5: cf71a21537efaeefbfe5163beebc3345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76327
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607095.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76327/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 163, scMd5: 63d5878c20321846a42d6f89a4e29054
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76327
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607095.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76328/scc_SUT_210923_1550.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 164, scMd5: 89c5a8df2516b19c5cab37740ed9a7fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76328
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607096.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76328/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 165, scMd5: daaa58d2a1d720c2f0bbf3c83b0422fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76328
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607096.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76329/nts_SUT_211006_1624.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 166, scMd5: 8e1726b2dab8d45be188c4022e976bd6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76329
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607097.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76329/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 167, scMd5: bf1a44eb8078ef82d66a80a2b0933024
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76329
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607097.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76330/scc_localhost_211130_1832.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 168, scMd5: 956f26a922a52dcc6fbe840a1c7dd063
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76330
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607098.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151170
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76330/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 169, scMd5: a0f46cb916db63657753cd527ea3d013
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76330
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607098.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151170
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/nts_linux_211125_0501.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 170, scMd5: 25edc3887a0d87c632d731a69f687a9c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/nts_linux_211126_0338.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 171, scMd5: d05e8f8fd16110befc7343889c040d76
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/nts_linux_211129_0426.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 172, scMd5: 3e7604a0cdcdc636b8e85dbf789ec083
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/scc_install_211125_0501.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 173, scMd5: 7fc7414e6255148fcc8c1346ee726d14
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/scc_install_211126_0337.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 174, scMd5: dfa51399ca931e667cd3505847815b4a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/scc_localhost_211126_0221.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 175, scMd5: 78568840a9cb9115aec189910cc45529
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/scc_localhost_211129_0306.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 176, scMd5: a6ac8ec14e7c7a30442950cca5ce6e31
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/scc_localhost_211129_0647.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 177, scMd5: 229f3e351fe487a1d3117f2fa0346a3c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76331/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 178, scMd5: 9c367155c8ad653c6edfedd1d2e7bd65
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76331
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607099.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76332/scc_sut_211201_2152.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 179, scMd5: c095b77db92b8925d29f3aa6fd807a05
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76332
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607100.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151183
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76332/scc_sut_211202_1457.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 180, scMd5: 90be528f73f7e3ad8d5d9f57945a40b9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76332
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607100.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151183
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76332/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 181, scMd5: d4892d53711118214983fc7b37295f9e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76332
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607100.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151183
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76333/scc_localhost_211201_0839.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 182, scMd5: 7be2b0dc8b050f9b6d8b649cf5071357
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76333
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607101.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76333/scc_localhost_211201_0855.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 183, scMd5: b92f8a4aaa4fd9eac7a7e7e2a2198ad9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76333
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607101.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76333/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 184, scMd5: 4005669a0b65eb813eedf9813ecb1c33
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76333
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607101.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76334/scc_sut30_211202_1057.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 185, scMd5: c05d50225f9921eea2c669a1830a93f9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76334
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607102.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76334/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 186, scMd5: 22a33383b18e69dcd9d9db0516ee2473
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76334
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607102.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/nts_linux_211125_0501.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 187, scMd5: 25edc3887a0d87c632d731a69f687a9c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/nts_linux_211126_0338.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 188, scMd5: d05e8f8fd16110befc7343889c040d76
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/nts_linux_211129_0426.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 189, scMd5: 3e7604a0cdcdc636b8e85dbf789ec083
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/scc_install_211125_0501.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 190, scMd5: 7fc7414e6255148fcc8c1346ee726d14
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/scc_install_211126_0337.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 191, scMd5: dfa51399ca931e667cd3505847815b4a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/scc_localhost_211126_0221.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 192, scMd5: 78568840a9cb9115aec189910cc45529
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/scc_localhost_211129_0306.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 193, scMd5: a6ac8ec14e7c7a30442950cca5ce6e31
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/scc_localhost_211129_0647.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 194, scMd5: 229f3e351fe487a1d3117f2fa0346a3c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76335/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 195, scMd5: 9c367155c8ad653c6edfedd1d2e7bd65
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76335
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607103.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76336/nts_linux-7ioo_211118_0942.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 196, scMd5: f0c1aa8b356e5e2c6330272966bfa2e0
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76336
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607104.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76336/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 197, scMd5: 40e4afc82e59e48b7cd4fb06c84207dc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76336
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607104.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76337/scc_sut30_211203_1155.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 198, scMd5: 75cbb4f5886a63a8cb8803e6ff46cdbf
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76337
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607105.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76337/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 199, scMd5: 49e4d4276f93800bb124bdb803183a40
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76337
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607105.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76338/scc_Cert16-1_211105_1040.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 200, scMd5: 0019165b6962362092987bc90f4bec51
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76338
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607106.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151182
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76338/scc_Cert16-1_211110_1216.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 201, scMd5: 4b24c556687b58bc6fbe11dd7a09ac08
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76338
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607106.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151182
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76338/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 202, scMd5: eaf0bc10c7c9e7e05ac1e82708acca13
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76338
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607106.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151182
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76339/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 203, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76339
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607107.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76339/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 204, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76339
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607107.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76339/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 205, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76339
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607107.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76340/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 206, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76340
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607108.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76340/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 207, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76340
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607108.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76340/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 208, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76340
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607108.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76341/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 209, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76341
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76341/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 210, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76341
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76341/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 211, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76341
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76342/scc_SUT_211005_1329.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 212, scMd5: cf71a21537efaeefbfe5163beebc3345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76342
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607110.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76342/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 213, scMd5: 07dd3770cf6625ed206c0e03bfe9874b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76342
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607110.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76343/scc_SUT_210923_1550.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 214, scMd5: 89c5a8df2516b19c5cab37740ed9a7fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76343
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607111.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76343/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 215, scMd5: 3f075ec3f37b562780f9f7ba07cbafe6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76343
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607111.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76344/nts_SUT_211006_1624.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 216, scMd5: 8e1726b2dab8d45be188c4022e976bd6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76344
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607112.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76344/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 217, scMd5: 039450a3a9d464a63683d337136b7327
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76344
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607112.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76345/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 218, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76345/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 219, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76345/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 220, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76345
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76346/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 221, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76346
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76346/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 222, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76346
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76346/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 223, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76346
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76347/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 224, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76347
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76347/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 225, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76347
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76347/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 226, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76347
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76348/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 227, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76348
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76348/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 228, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76348
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76348/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 229, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76348
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76349/nts_linux-7ioo_211129_0138.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 230, scMd5: 9db5e321fd6722c6457fbc27eeda53f5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76349
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607117.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76349/nts_linux-7ioo_211129_0834.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 231, scMd5: e0c86e39ac32d11e2598f8871f218a69
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76349
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607117.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76349/nts_linux_211126_1122.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 232, scMd5: b449d30590deb719b49f6904976000e8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76349
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607117.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76349/nts_linux_211129_0657.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 233, scMd5: 03f6a9ba8d9a6bb7c490550463f42b5b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76349
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607117.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76349/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 234, scMd5: 56e71add8cfd99ef0f522c4c7cc803f1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76349
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607117.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76350/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 235, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76350
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76350/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 236, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76350
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76350/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 237, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76350
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/nts_linux_211125_0501.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 238, scMd5: 25edc3887a0d87c632d731a69f687a9c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/nts_linux_211126_0338.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 239, scMd5: d05e8f8fd16110befc7343889c040d76
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/nts_linux_211129_0426.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 240, scMd5: 3e7604a0cdcdc636b8e85dbf789ec083
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/scc_install_211125_0501.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 241, scMd5: 7fc7414e6255148fcc8c1346ee726d14
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/scc_install_211126_0337.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 242, scMd5: dfa51399ca931e667cd3505847815b4a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/scc_localhost_211126_0221.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 243, scMd5: 78568840a9cb9115aec189910cc45529
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/scc_localhost_211129_0306.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 244, scMd5: a6ac8ec14e7c7a30442950cca5ce6e31
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/scc_localhost_211129_0647.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 245, scMd5: 229f3e351fe487a1d3117f2fa0346a3c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76351/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 246, scMd5: 9c367155c8ad653c6edfedd1d2e7bd65
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76351
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607119.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151177
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76352/scc_localhost_211201_0839.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 247, scMd5: 7be2b0dc8b050f9b6d8b649cf5071357
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76352
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607120.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151178
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76352/scc_localhost_211201_0855.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 248, scMd5: b92f8a4aaa4fd9eac7a7e7e2a2198ad9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76352
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607120.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151178
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76352/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 249, scMd5: 4005669a0b65eb813eedf9813ecb1c33
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76352
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607120.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151178
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/nts_linux_211202_0914.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 250, scMd5: 847c80e7dde8d213360863c35a75befd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/nts_linux_211202_1223.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 251, scMd5: 1e13ef83f471a0456bcc7daae1423e5d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/nts_linux_211203_0355.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 252, scMd5: 8e89d8241315f4d5570d4a854dcb87fc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/scc_install_211202_0914.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 253, scMd5: 4c87f8174db3069e63beb4892af72426
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/scc_install_211202_1223.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 254, scMd5: c81fae5fe88ca4d87c34bd5f0473eef7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/scc_localhost_211203_0244.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 255, scMd5: d1ae9217d821b93e862f5c5ce7a8a3d8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/scc_localhost_211203_0254.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 256, scMd5: beac488200bc3dee8b834953bf4460e1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/scc_localhost_211203_0458.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 257, scMd5: 5df264b46e04a3cf552c75ef64490ade
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76353/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 258, scMd5: 4dbf56539db0b5a5992bf31a7f93370a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76353
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607121.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151179
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76354/nts_linux-i0y9_211126_1959.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 259, scMd5: c848192d3d50e3783b9875d0df57d987
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76354/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 260, scMd5: 588326e180f0f72ab69f14a5b5d14d84
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76355/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 261, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76355
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607139.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76355/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 262, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76355
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607139.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76355/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 263, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76355
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607139.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76356/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 264, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76356
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607140.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76356/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 265, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76356
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607140.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76356/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 266, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76356
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607140.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76357/scc_localhost_211202_0859.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 267, scMd5: 93dbf9474df6960c9a2c3bd13906a75e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76357
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76357/scc_localhost_211202_0902.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 268, scMd5: 25d5ea374fcefa6a552f1071695e59a5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76357
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76357/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 269, scMd5: 42528cce92c6cff9b7da17623549b75c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76357
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76358/scc_SUT_211203_1722.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 270, scMd5: 0412eec0ca66066d0593c3a58216f923
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76358
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607142.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76358/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 271, scMd5: 6bf44bd235a40377269410be0aeb9ca9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76358
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607142.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76359/scc_SUT_211203_1722.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 272, scMd5: 0412eec0ca66066d0593c3a58216f923
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76359
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607143.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76359/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 273, scMd5: 6bf44bd235a40377269410be0aeb9ca9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76359
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607143.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76360/scc_install_211202_1136.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 274, scMd5: 1d6f8ea6a1147ac9299e32dc9b2a801a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76360
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607144.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76360/scc_install_211203_1101.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 275, scMd5: eda60076d34bd8564a814a59231181cd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76360
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607144.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76360/scc_ml30sles15sp3_211203_0020.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 276, scMd5: 93c7c0c835d8ce278166fc4b6ad0c652
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76360
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607144.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76360/scc_ml30sles15sp3_211203_1230.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 277, scMd5: b022326747ec74c4de731f0b0680c2fd
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76360
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607144.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76360/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 278, scMd5: 32e35078ae0d2c42b461682256866469
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76360
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607144.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76361/scc_ml30sles15sp3_211126_1533.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 279, scMd5: 9041204e60596f6b1ee45196a1538d70
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76361
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607145.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76361/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 280, scMd5: 1c36615111e8bf185388ebe9d15d3fd1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76361
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607145.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76362/scc_SUT_211211_1730.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 281, scMd5: d1292a174d037c35292d8947a2c25bcb
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76362
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607147.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76362/scc_SUT_211212_2005.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 282, scMd5: 7b224ff7fc4e83be1de2502e07cb7c5d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76362
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607147.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76362/scc_localhost_211210_1619.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 283, scMd5: 0d5e0f71ffabfb7d27e283d657be34fb
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76362
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607147.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76362/scc_localhost_211212_0027.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 284, scMd5: a3e3f3a92cc74be4a8e2e971854952f2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76362
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607147.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76362/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 285, scMd5: 01270a134e580256cf4a51ff883fd9ec
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76362
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607147.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76363/scc_SUT_211211_1730.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 286, scMd5: d1292a174d037c35292d8947a2c25bcb
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76363
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607148.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151167
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76363/scc_SUT_211212_2005.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 287, scMd5: 7b224ff7fc4e83be1de2502e07cb7c5d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76363
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607148.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151167
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76363/scc_localhost_211210_1619.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 288, scMd5: 0d5e0f71ffabfb7d27e283d657be34fb
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76363
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607148.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151167
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76363/scc_localhost_211212_0027.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 289, scMd5: a3e3f3a92cc74be4a8e2e971854952f2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76363
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607148.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151167
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76363/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 290, scMd5: 01270a134e580256cf4a51ff883fd9ec
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76363
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607148.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151167
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76364/scc_install_211210_0113.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 291, scMd5: 0acdbec1b29c282d3d2bb449dc4bdf80
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76364
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607149.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76364/scc_install_211210_1505.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 292, scMd5: 99058607fb2101b15ef0047ba237b6d1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76364
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607149.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76364/scc_localhost_211210_1255.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 293, scMd5: 1b996cba29c21d1529f5b6cfdf00e515
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76364
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607149.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76364/scc_localhost_211210_1552.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 294, scMd5: 2f598409e06f218ba36f514a7ce8473b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76364
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607149.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76364/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 295, scMd5: f7135f7ec632fd2fdb77907d25a651f2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76364
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607149.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76365/scc_install_211209_1301.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 296, scMd5: b213230dc2c1d72430c0baf88aba7c78
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76365
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607150.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76365/scc_install_211209_1305.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 297, scMd5: 6884b6bf9e01a6cb9067257b63ebadc3
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76365
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607150.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76365/scc_install_211212_0650.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 298, scMd5: fbeff32bba26ef82c5c6cecc563b1318
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76365
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607150.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76365/scc_install_211212_0652.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 299, scMd5: 813bb20069dbdd28831b23446e5d946e
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76365
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607150.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76365/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 300, scMd5: 718421fe83629ea7b48b62e16fd5e32c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76365
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607150.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76366/scc_SUT_211213_1435.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 301, scMd5: 348636c655c0e7b6474a662530f050ad
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76366
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607151.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76366/scc_SUT_211213_1509.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 302, scMd5: 0fba4a9928e7a717c23ce5aaf4af12d8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76366
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607151.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76366/scc_SUT_211213_2152.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 303, scMd5: cb95be5a884bcc4c685947190e48de09
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76366
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607151.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76366/scc_localhost_211212_2312.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 304, scMd5: bb6a47b450a423b09efe870e2dc720d7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76366
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607151.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76366/scc_localhost_211213_1937.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 305, scMd5: d1fc36a188f78daed64b4d14752f7ced
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76366
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607151.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76366/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 306, scMd5: 22bffb8dcbd2a60b3dd3437a517d549b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76366
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607151.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76367/scc_SUT_211213_1435.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 307, scMd5: 348636c655c0e7b6474a662530f050ad
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76367
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607152.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76367/scc_SUT_211213_1509.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 308, scMd5: 0fba4a9928e7a717c23ce5aaf4af12d8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76367
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607152.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76367/scc_SUT_211213_2152.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 309, scMd5: cb95be5a884bcc4c685947190e48de09
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76367
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607152.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76367/scc_localhost_211212_2312.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 310, scMd5: bb6a47b450a423b09efe870e2dc720d7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76367
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607152.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76367/scc_localhost_211213_1937.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 311, scMd5: d1fc36a188f78daed64b4d14752f7ced
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76367
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607152.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76367/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 312, scMd5: 22bffb8dcbd2a60b3dd3437a517d549b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76367
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607152.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76368/scc_SUT_211213_1435.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 313, scMd5: 348636c655c0e7b6474a662530f050ad
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76368
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607153.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151181
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76368/scc_SUT_211213_1509.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 314, scMd5: 0fba4a9928e7a717c23ce5aaf4af12d8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76368
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607153.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151181
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76368/scc_SUT_211213_2152.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 315, scMd5: cb95be5a884bcc4c685947190e48de09
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76368
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607153.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151181
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76368/scc_localhost_211212_2312.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 316, scMd5: bb6a47b450a423b09efe870e2dc720d7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76368
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607153.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151181
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76368/scc_localhost_211213_1937.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 317, scMd5: d1fc36a188f78daed64b4d14752f7ced
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76368
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607153.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151181
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76368/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 318, scMd5: 22bffb8dcbd2a60b3dd3437a517d549b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76368
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607153.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151181
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76369/nts_sut_210804_1423.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 319, scMd5: fb9e6e0c1e869e69abe6f194b8aefef4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76369
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607154.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76369/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 320, scMd5: 477be346e771b4783749bb115b7cdd13
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76369
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607154.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76370/nts_sut_210804_1423.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 321, scMd5: fb9e6e0c1e869e69abe6f194b8aefef4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76370
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607155.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76370/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 322, scMd5: 477be346e771b4783749bb115b7cdd13
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76370
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607155.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76371/nts_SUT_210818_1636.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 323, scMd5: 14b47bc3a057955d51629a416004ff80
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76371
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607156.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76371/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 324, scMd5: bc15841c22f33237009a3b4a8171a0d2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76371
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607156.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76372/nts_sut_210804_1423.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 325, scMd5: fb9e6e0c1e869e69abe6f194b8aefef4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76372
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607157.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76372/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 326, scMd5: 477be346e771b4783749bb115b7cdd13
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76372
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607157.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76373/scc_SUT_211210_1733.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 327, scMd5: d401d06b8db8732e604d6a83a803d9a8
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76373
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607158.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76373/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 328, scMd5: 5d4819f07106a1cb13a2dbf86906d89b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76373
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607158.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76374/scc_SUT_211215_1743.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 329, scMd5: e49a4d38912fc64098f166f4f0e90567
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76374
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607159.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151180
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76374/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 330, scMd5: 1cd929083fd3130394cee7ede1758838
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76374
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607159.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151180
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76375/scc_sut_211208_0409.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 331, scMd5: c5824c533090b9469725c8b78dcee7a7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76375
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607160.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151184
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76375/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 332, scMd5: 6f473fdb1bca8d3f65970eb48ef53a22
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76375
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607160.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151184
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76376/nts_sut_211211_0243.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 333, scMd5: 805101d0fb4339e62bc8552717b6cd80
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76376
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607161.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151185
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76376/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 334, scMd5: 6140250a7a3d1ef2d827c21f7989a741
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76376
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607161.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151185
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76377/scc_sut_211130_1754.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 335, scMd5: f9441c60af12894869ed2df1451652d1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76377
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607162.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76377/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 336, scMd5: 90a30cc4aef312211785621f689e5e9d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76377
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607162.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76378/scc_sut_211209_2345.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 337, scMd5: 20607cf3535f2719725e6e9ce334c7c3
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76378
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607163.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151186
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76378/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 338, scMd5: 5ff90ceb3d7f4eeb5a7f18e99f797ff6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76378
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607163.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151186
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76379/scc_sut_211130_1754.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 339, scMd5: f9441c60af12894869ed2df1451652d1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76379
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607164.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76379/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 340, scMd5: 90a30cc4aef312211785621f689e5e9d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76379
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607164.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76380/scc_sut_211206_1827.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 341, scMd5: 5a5241acdab8dc54e9859493a773599b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76380
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607165.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151187
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76380/scc_sut_211207_1029.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 342, scMd5: a7560207c351e3ee47c654240cca84fc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76380
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607165.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151187
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76380/scc_sut_211207_1717.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 343, scMd5: 3a4861a956fa8ad71bf7e57249979074
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76380
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607165.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151187
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76380/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 344, scMd5: afdf2c875e65a34f3b00740bce578534
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76380
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607165.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151187
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76381/scc_sut_211207_1740.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 345, scMd5: 8163eee43335ba96cad10f530f31082d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76381
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607166.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151188
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76381/scc_sut_211207_2237.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 346, scMd5: 93c5e47943bc3599b181239561538c2b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76381
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607166.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151188
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76381/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 347, scMd5: 5cbcc2b2e3aa1685e3393f73df85f0ad
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76381
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607166.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151188
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76382/scc_sut_211212_2300.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 348, scMd5: 47a71e0777cc724ee4cf67e7c583f4d9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76382
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607167.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151189
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76382/scc_sut_211212_2307.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 349, scMd5: 7f179a822310c90f9739fde9c9e57698
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76382
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607167.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151189
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76382/scc_sut_211212_2313.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 350, scMd5: edd210c65e4e93dff44df2d16069b6e4
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76382
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607167.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151189
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76382/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 351, scMd5: c6478c5ecff26f2c197ae135c3549bd7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76382
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607167.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151189
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76383/scc_sut_211130_1754.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 352, scMd5: f9441c60af12894869ed2df1451652d1
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76383
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607168.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76383/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 353, scMd5: 90a30cc4aef312211785621f689e5e9d
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76383
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607168.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76384/scc_sut_211206_1827.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 354, scMd5: 5a5241acdab8dc54e9859493a773599b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76384/scc_sut_211207_1029.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 355, scMd5: a7560207c351e3ee47c654240cca84fc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76384/scc_sut_211207_1717.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 356, scMd5: 3a4861a956fa8ad71bf7e57249979074
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76384/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 357, scMd5: afdf2c875e65a34f3b00740bce578534
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76385/scc_sut_211129_1826.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 358, scMd5: 31410ad70db3d9b103b9d06ee5372c2c
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76385
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607170.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76385/scc_sut_211129_2158.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 359, scMd5: 2c67936c12fc56b10547dcdbe0613d94
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76385
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607170.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76385/scc_sut_211130_1150.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 360, scMd5: 222c18714438b2208756d42073dfbe78
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76385
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607170.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76385/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 361, scMd5: 9befec98b02673fa7ab22802dd091816
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76385
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607170.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76386/scc_sut_211208_0409.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 362, scMd5: c5824c533090b9469725c8b78dcee7a7
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76386/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 363, scMd5: 6f473fdb1bca8d3f65970eb48ef53a22
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76387/scc_sut_211203_1708.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 364, scMd5: abe7ffb06775717add866ff04c1eea0b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76387
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607172.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151190
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76387/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 365, scMd5: 6fc13a7520f3b23a44d3fd48ebb83384
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76387
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607172.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 151190
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76388/scc_sut_211206_1827.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 366, scMd5: 5a5241acdab8dc54e9859493a773599b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76388/scc_sut_211207_1029.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 367, scMd5: a7560207c351e3ee47c654240cca84fc
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76388/scc_sut_211207_1717.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 368, scMd5: 3a4861a956fa8ad71bf7e57249979074
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76388/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 369, scMd5: afdf2c875e65a34f3b00740bce578534
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76389/nts_sut_211207_1626.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 370, scMd5: 49a1def404383a628b557ca01aef6614
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76389
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607174.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76389/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 371, scMd5: 59b1fff87e09f0a2acc935dcd117d31a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76389
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607174.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76390/nts_sut_211209_1920.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 372, scMd5: 6818b9f12a545aa650bdc6fb66a678e6
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76390
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607175.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76390/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 373, scMd5: 4e9a94fe1ac719a73dcb059bb7a38080
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76390
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607175.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76391/scc_sut_211206_1451.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 374, scMd5: 3c7e5dab590c1d43a2c94edac59733f2
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76391
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607176.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76391/scc_sut_211206_1542.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 375, scMd5: 3f46014166527da750ed1202cd3a7aad
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76391
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607176.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76391/scc_sut_211206_1712.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 376, scMd5: 24702b6e65ddbd6b7767aae6bab28929
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76391
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607176.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76391/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 377, scMd5: fc71add357f412cdf48b91c0e766179b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76391
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607176.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76392/scc_sut_211227_1720.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 378, scMd5: 1eb018ecdf9a868a85c905425b37c550
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76392
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607179.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76392/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 379, scMd5: a5a18fc170542ebcf2993c19deee835f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76392
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607179.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76393/scc_sut_211227_1720.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 380, scMd5: 1eb018ecdf9a868a85c905425b37c550
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76393
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607180.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76393/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 381, scMd5: a5a18fc170542ebcf2993c19deee835f
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76393
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607180.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76394/nts_linux-rluf_211221_2248.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 382, scMd5: 7182e93872dee55f00396bc2e948be26
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76394
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607181.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76394/nts_linux-rluf_211222_1056.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 383, scMd5: a592bf397912cb80c8ecf3c29f6e0bf5
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76394
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607181.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76394/nts_linux-rluf_211222_1111.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 384, scMd5: 4b30b7ded2e8440cb50532c597f15968
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76394
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607181.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76394/nts_linux-rluf_211222_1341.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 385, scMd5: 029063f1443a654cf5286f35d3b0e238
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76394
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607181.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76394/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 386, scMd5: 307fa87d25c4004c1bc0e14dc5d905e9
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76394
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607181.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76395/nts_sut_211228_1647.tbz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 387, scMd5: bc00d2d02b9ea9afb926b9298f69aa8b
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76395
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607182.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76395/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 388, scMd5: 53fab1a8b17de34b83ad47afd7153f7a
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76395
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607182.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76396/scc_sut_211229_1951.txz
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 389, scMd5: 75810906a73ee77a7ee171a8de375612
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76396
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607183.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/76396/zipname.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 390, scMd5: 5e960fea21c2836eccd7df79d6f57fbb
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: 76396
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: /work/sca-datasets/rawdata/cert-subs/607183.html
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: bulletinId: 
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: sc: /mnt/datalake/rawdata/cert-supportconfigs/new-20220101.txt
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: scNum: 391, scMd5: 0c85d7616d3005b1892bc9f4c6923026
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: zipIndex: cert-supportconfigs
+*** DEBUG: /work/sca-datasets/bin/datasets-certs.sh: subFile: 

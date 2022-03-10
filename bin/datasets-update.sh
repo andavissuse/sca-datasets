@@ -49,13 +49,14 @@ datasetsHome="$SCA_DATASETS_HOME"
 datasetsBinPath="$SCA_DATASETS_BIN_PATH"
 datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 datasetsLogPath="$SCA_DATASETS_LOG_PATH"
-[ $DEBUG ] && echo "*** DEBUG: $0: ingestHome: $ingestHome, datasetsHome: $datasetsHome, datasetsBinPath: $datasetsBinPath, datasetsTmpPath: $datasetsTmpPath, datasetsLogPath: $datasetsLogPath"
+[ $DEBUG ] && echo "*** DEBUG: $0: ingestHome: $ingestHome, datasetsHome: $datasetsHome, datasetsBinPath: $datasetsBinPath, datasetsTmpPath: $datasetsTmpPath, datasetsLogPath: $datasetsLogPath" >&2
 
 curDate=`date +%Y%m%d`
 
 # current rawdata info
 pushd $ingestHome >/dev/null
 rawdataCommit=`git log rawdata.dvc | head -1 | cut -d' ' -f2`
+[ $DEBUG ] && echo "*** DEBUG: $0: rawdataCommit: $rawdataCommit" >&2
 popd >/dev/null
 
 # create list of new supportconfigs
@@ -67,8 +68,11 @@ echo -n "Create $datasetsTmpPath/new-scs.txt (y/N)? "
 read reply
 if [ "$reply" = "y" ]; then
 	datasetsRawdataCommit=`cat $datasetsHome/rawdata.dvc.git`
+	[ $DEBUG ] && echo "*** DEBUG: $0: datasetsRawdataCommit: $datasetsRawdataCommit" >&2
 	if [ "$datasetsRawdataCommit" != "$rawdataCommit" ]; then
+		pushd $ingestHome >/dev/null
         	dvc diff $datasetsRawdataCommit $rawdataCommit | sed "s/^ *\.\.\/\.\.//" | sed -n '/Deleted:/q;p' | grep -E "^/" > $datasetsTmpPath/new-scs.txt
+		popd >/dev/null
 	fi
 	if [ ! -s "$datasetsTmpPath/new-scs.txt" ]; then
 		echo "No new supportconfigs, exiting..."
