@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #
-# This script reads the latest new.txt file to get supportconfigs.  For each
+# This script reads <tmpdir>/new-scs.txt to get supportconfigs.  For each
 # supportconfig, it:
 #
 #	1) extracts all feature data from the supportconfig
@@ -50,7 +50,7 @@ scaBinPath="$SCA_BIN_PATH"
 datasetsBinPath="$SCA_DATASETS_BIN_PATH"
 datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 datasetsPath="$SCA_DATASETS_RESULTS_PATH"
-dataTypes="$SCA_DATASETS_ALL_DATATYPES"
+dataTypes="$SCA_DATASETS_DATATYPES"
 [ $DEBUG ] && echo "*** DEBUG: $0: scaBinPath: $scaBinPath, datasetsBinPath: $datasetsBinPath, datasetsTmpPath: $datasetsTmpPath, datasetsPath: $datasetsPath, dataTypes: $dataTypes" >&2
 
 # process new supportconfigs from all sources

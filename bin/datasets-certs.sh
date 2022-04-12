@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #
-# This script reads the latest new.txt file to get supportconfigs.  For each
+# This script reads <tmpdir>/new-scs.txt to get supportconfigs.  For each
 # supportconfig, it:
 #
 #	1) searches the cert submissions path to find corresponding

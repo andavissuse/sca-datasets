@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #
-# This script reads the latest new-<date>.txt file to get supportconfigs.  For each
+# This script reads <tmpdir>/new-scs.txt to get supportconfigs.  For each
 # supportconfig, it:
 #
 #	1) writes the supportconfig md5sum and name to an sc-names.dat
