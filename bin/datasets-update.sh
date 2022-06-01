@@ -81,7 +81,7 @@ if [ "$reply" = "y" ]; then
 fi
 
 # feature datasets
-echo "Update binary-valued datasets (y/N)? "
+echo "Update features datasets (y/N)? "
 read reply
 if [ "$reply" = "y" ]; then
 	[ $DEBUG ] && $datasetsBinPath/datasets-features.sh "$debugOpt" >> "$datasetsLogPath"/features-$curDate.log 2>&1
