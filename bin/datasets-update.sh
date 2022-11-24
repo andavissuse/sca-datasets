@@ -71,7 +71,7 @@ if [ "$reply" = "y" ]; then
 	[ $DEBUG ] && echo "*** DEBUG: $0: datasetsRawdataCommit: $datasetsRawdataCommit" >&2
 	if [ "$datasetsRawdataCommit" != "$rawdataCommit" ]; then
 		pushd $ingestHome >/dev/null
-        	dvc diff $datasetsRawdataCommit $rawdataCommit | sed "s/^ *\.\.\/\.\.//" | sed -n '/Deleted:/q;p' | grep -E "^/" | grep -E "*.t[bx]z" > $datasetsTmpPath/new-scs.txt
+        	dvc diff $datasetsRawdataCommit $rawdataCommit | sed "s/^ *\.\.\/\.\.//" | sed -n '/Deleted:/q;p' | grep -E "^/" | grep -E "*.t[bx]z" > $datasetsTmpPath/new-scs.txt 2>/dev/null
 		popd >/dev/null
 	fi
 	if [ ! -s "$datasetsTmpPath/new-scs.txt" ]; then
