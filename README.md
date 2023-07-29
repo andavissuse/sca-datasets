@@ -1,5 +1,5 @@
 # sca-datasets
-Project to build and provide datasets for the sca-L0 utility.
+Project to build/update datasets from SUSE supportconfig data.  These datasets are used by the sca supportconfig analysis utility (https://github.com/andavissuse/sca).
 
 # Structure
 
