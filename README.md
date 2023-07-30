@@ -4,7 +4,7 @@ Project to build/update datasets from SUSE supportconfig data.  These datasets a
 # Structure
 
 ## sca-datasets.conf file
-Config file containing environment and other variables for use by scripts.
+Config file containing environment variables for use by scripts.
 
 ## rawdata.dvc.git file
 Version of rawdata used to build datasets.
