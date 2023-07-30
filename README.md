@@ -1,6 +1,8 @@
 # sca-datasets
 Project to build/update datasets from SUSE supportconfig data.  These datasets are used by the sca supportconfig analysis utility (https://github.com/andavissuse/sca).
 
+Binary-valued datasets are stored in pickle format (https://docs.python.org/3/library/pickle.html).
+
 # Structure
 
 ## sca-datasets.conf file
