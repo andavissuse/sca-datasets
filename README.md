@@ -26,9 +26,9 @@ To update ALL datasets with new supportconfigs in the rawdata area:
   * Invoke `datasets-features.sh` to build binary-valued datasets.  For each supportconfig, this will:
     * Uncompress the supportconfig
     * Run supportconfig extraction scripts (from sca github project) to extract features
-    * Call `dataset.py`.  This will:
-      * Vectorize the features (using one-hot encoding)
-      * Add the supportconfig md5sum and vectors to appropriate dataset files.  As new feature values are found, additional vector dimensions are added and existing vectors are modified to contain '0' values for the new dimensions.
+    * For each type of binary dataset, call `dataset.py`.  This will:
+      * Vectorize the relevant feature data (using one-hot encoding)
+      * Add the supportconfig md5sum and vector to the dataset file.  As new feature values are found, additional vector dimensions will be added and existing vectors will be modified to contain `0` values for the new dimensions.
   * Invoke `datasets-srs.sh` to build SR datasets.  For each supportconfig, this will:
      * Search the rawdata supportconfig path for an SR number
      * Add the supportconfig md5sum and SR number to the srs.dat file
