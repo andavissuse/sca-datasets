@@ -23,17 +23,19 @@ Prerequisites:
 
 To update ALL datasets with new supportconfigs in the rawdata area:
 * Run `datasets-update.sh`.  This will:
-  * Invoke `datasets-features.sh` to build binary-valued datasets.  For each supportconfig, this will:
+  * Invoke `datasets-features.sh` to update binary-valued datasets.  For each supportconfig, this will:
     * Uncompress the supportconfig
     * Run supportconfig extraction scripts (from sca github project) to extract all features
     * For each type of binary dataset, call `dataset.py`.  This will:
       * Vectorize the relevant feature data (using one-hot encoding)
       * Add the supportconfig md5sum and vector to the dataset file.  As new feature values are found, additional vector dimensions will be added and existing vectors will be modified to contain `0` values for the new dimensions.
-  * Invoke `datasets-srs.sh` to build SR datasets.  For each supportconfig, this will:
-     * Search the rawdata supportconfig path for an SR number
+  * Invoke `datasets-srs.sh` to update the SR dataset.  For each supportconfig, this will:
+     * Search the supportconfig path for an SR number
      * Add the supportconfig md5sum and SR number to the srs.dat file
-  * Invoke `datasets-bugs.sh` to build bugs datasets.  This will:
-     * Search the rawdata supportconfig path for a bug number
+  * Invoke `datasets-bugs.sh` to update the bugs dataset.  This will:
+     * Search the supportconfig path for a bug number
      * Add the supportconfig md5sum and bug number to the bugs.dat file
-  * Invoke `datasets-certs.sh` to build certs dataset.  This will:
-     * Search rawdata to associate supportconfigs with YES bulletin numbers
+  * Invoke `datasets-certs.sh` to build the certs dataset.  This will:
+     * Search the supportconfig path for a certification submission number
+     * Search the rawdata cert-subs area to find the YES bulletin number associated with submission number
+     * Add the supportconfig md5sum and YES bulletin number to the certs.dat file
