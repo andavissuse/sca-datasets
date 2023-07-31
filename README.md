@@ -13,9 +13,6 @@ Config file containing environment variables for use by scripts.
 ## bin directory
 bash and python scripts to build datasets.
 
-## datasets directory
-Directory to contain built/updated datasets.
-
 # Instructions
 
 ## Building/updating datasets

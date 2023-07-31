@@ -62,6 +62,7 @@ datasetsTmpPath="$SCA_DATASETS_TMP_PATH"
 datasetsPath="$SCA_DATASETS_RESULTS_PATH"
 dataTypes="$SCA_DATASETS_DATATYPES"
 [ $DEBUG ] && echo "*** DEBUG: $0: scaBinPath: $scaBinPath, datasetsBinPath: $datasetsBinPath, datasetsTmpPath: $datasetsTmpPath, datasetsPath: $datasetsPath, dataTypes: $dataTypes" >&2
+mkdir -p "$datasetsPath"
 
 # process new supportconfigs from all sources
 scNum=0
