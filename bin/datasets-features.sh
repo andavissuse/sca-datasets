@@ -38,7 +38,7 @@ while getopts 'hd' OPTION; do
 done
 if [ ! "$1" ]; then
         usage 1
-elif [ ! -d "$1" ]; then
+elif [ ! -f "$1" ]; then
         echo "File $1 does not exist."
         exit 1
 else
