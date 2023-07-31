@@ -1,20 +1,22 @@
 #!/bin/sh
 
 #
-# This script reads <tmpdir>/new-scs.txt to get supportconfigs.  For each
+# This script reads a text file listing paths to one or more supportconfigs.  For each
 # supportconfig, it:
 #
 #	1) extracts all feature data from the supportconfig
 #	2) for each feature, calls dataset_feature.py to update the feature dataset
 #
-# Inputs: None (uses sca-datasets.conf file for configuration)
+# Inputs:
 #
-# Result: Updated feature datasets in the datasets directory
+# 	1) text file containing paths to one or more supportconfigs
+#
+# Result: Updated feature datasets in a datasets directory
 #
 
 # functions
 function usage() {
-	echo "Usage: `basename $0` [-d(ebug)]"
+	echo "Usage: `basename $0` [-d(ebug)] text-file-containing-supportconfigs"
 }
 
 # arguments
@@ -34,6 +36,14 @@ while getopts 'hd' OPTION; do
                         ;;
         esac
 done
+if [ ! "$1" ]; then
+        usage 1
+elif [ ! -d "$1" ]; then
+        echo "File $1 does not exist."
+        exit 1
+else
+	scsFile="$1"
+fi
 
 # config file
 confFile="/usr/etc/sca-datasets.conf"
@@ -54,7 +64,6 @@ dataTypes="$SCA_DATASETS_DATATYPES"
 [ $DEBUG ] && echo "*** DEBUG: $0: scaBinPath: $scaBinPath, datasetsBinPath: $datasetsBinPath, datasetsTmpPath: $datasetsTmpPath, datasetsPath: $datasetsPath, dataTypes: $dataTypes" >&2
 
 # process new supportconfigs from all sources
-scsFile="$datasetsTmpPath/new-scs.txt"
 scNum=0
 while IFS= read -r sc; do
 	[ $DEBUG ] && echo "*** DEBUG: $0: sc: $sc" >&2
