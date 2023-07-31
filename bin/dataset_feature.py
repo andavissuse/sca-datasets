@@ -68,7 +68,7 @@ def main(argv):
         print("*** DEBUG: " + sys.argv[0] + ": df_sc:", df_sc, file=sys.stderr)
 
     # add or replace vector into/in dataset
-    df_appended = df_dataset.append(df_sc, sort=False)
+    df_appended = df_dataset._append(df_sc, sort=False)
     if DEBUG == "TRUE":
         print("*** DEBUG: " + sys.argv[0] + ": df_appended:", df_appended, file=sys.stderr)
     df_dedup = df_appended.drop_duplicates(subset=['000_md5sum'], keep='last').fillna(0)
